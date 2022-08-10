@@ -1,0 +1,61 @@
+{
+    "Screen1":{
+       "title":"add customer",
+       "textboxes":[
+          "name",
+          "ID ",
+          "contact manage record orders gives details Parcel ID ",
+          "Parcel ",
+          "Price ",
+          "Qty ",
+          "Customer ID ",
+          "Customer ",
+          "Customer Address "
+       ],
+       "buttons":[
+          "add",
+          "update",
+          "delete"
+       ],
+       "datepicker":[
+          "Date "
+       ]
+    },
+    "Screen2":{
+       "title":"Product Manager",
+       "textboxes":[
+          "Name",
+          "Quantity ",
+          "Vendor ID ",
+          "Vendor ",
+          "Qty ",
+          "Price "
+       ],
+       "buttons":[
+          "perform",
+          "CRUD",
+          "operation",
+          "perform"
+       ],
+       "datepicker":[
+          "Date "
+       ]
+    },
+    "Screen3":{
+       "title":"Order Manager",
+       "textboxes":[
+          "ID ",
+          "Customer ID ",
+          "Customer ",
+          "Quantity ",
+          "Piece ",
+          "Address "
+       ],
+       "buttons":[
+          "perform",
+          "CRUD",
+          "operation",
+          "perform"
+       ]
+    }
+ }

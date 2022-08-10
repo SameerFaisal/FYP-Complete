@@ -1,0 +1,19 @@
+{
+	"Screen1": {
+		"CheckBoxes": [
+			"payment "
+		],
+		"ComboBoxes": [
+				{
+					"languages": [
+						"hello ",
+						" hi ",
+						" salam"
+					]
+				}
+		],
+		"DatePicker": [
+			"date "
+		]
+	}
+}

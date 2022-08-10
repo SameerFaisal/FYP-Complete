@@ -1,0 +1,10 @@
+input.form-control {
+    width: 46% !important;
+    margin-left: 14px;
+    border-radius: 0%;
+    margin-bottom: 1.5rem;
+    border-color: #ccc;
+}
+select.form-select {
+    border-radius: 0px;
+}

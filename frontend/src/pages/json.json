@@ -1,0 +1,24 @@
+{
+  "TITLE": "cricket game ",
+  "SCREENS": {
+    "Screen1": [
+      "home screen",
+      "a home screen"
+    ]
+  },
+  "CONTROLS": {
+    "Screen1": [
+      "payment",
+      "languages",
+      "date"
+    ]
+  },
+  "BUTTONS": {
+    "Screen1": [
+      "choose",
+      "team",
+      "choose"
+    ]
+  },
+  "NOOFSCREENS": 1
+}
